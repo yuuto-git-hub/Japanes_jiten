@@ -1,4 +1,4 @@
-const dictionary = [
+//const dictionary = [
   {"word": "夏0", "reading": "ほん", "meaning": "意味の例", "example": "○○を使って文を作ります。"},
   {"word": "音楽1", "reading": "ともだち", "meaning": "ある物事や行動", "example": "○○を使って文を作ります。"},
   {"word": "春2", "reading": "えいが", "meaning": "例として使う説明文", "example": "これは例文です。"},
@@ -299,4 +299,4 @@ const dictionary = [
   {"word": "読む297", "reading": "そら", "meaning": "例として使う説明文", "example": "日本語の勉強に使います。"},
   {"word": "昼298", "reading": "かわ", "meaning": "基本的な日本語", "example": "○○を使って文を作ります。"},
   {"word": "昼299", "reading": "がっこう", "meaning": "例として使う説明文", "example": "○○を使って文を作ります。"},
-];
+//];
